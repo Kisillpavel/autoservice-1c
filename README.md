@@ -39,6 +39,6 @@
 
 ### Мои контакты
 
-- Telegram: [@ваш_телеграм]
-- Email: [ваш_email]
-- HH.ru: [ссылка на резюме]
+- Telegram: [@kisillpavel]
+- Email: [pavel.prodakshn@yandex.ru]
+- HH.ru: [https://hh.ru/resume/fd6f1864ff10a52de20039ed1f326157785171]
